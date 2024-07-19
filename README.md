@@ -1,2 +1,2 @@
 #  🔥🔥 WEBAPP dashboard with streamlit🔥🔥
-![Interface](web.gif)
+![Interface](web1.MOV)
