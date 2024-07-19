@@ -1,4 +1,4 @@
-#  🔥🔥 WEBAPP dashboard with streamlit(only python)🔥🔥
+#  🔥 WEBAPP dashboard with streamlit(only python)🔥🔥
 - `dataset/products.csv`: Contains information about products.
 - `dataset/stores.csv`: Contains information about stores.
 - `dataset/transactions.csv`: Contains transaction data.
